@@ -500,12 +500,7 @@ LPMONITOR2 WINAPI InitializePrintMonitor2(PMONITORINIT pMonitorInit, PHANDLE phM
 	/************************************************************************/
 	/* TODO: 只能尝试在这里加上一个mfilePort端口了，如何调试啊？？？？               */
 	/************************************************************************/
-
-
-
-
-
-
+	
 	return &themon;
 }
 
